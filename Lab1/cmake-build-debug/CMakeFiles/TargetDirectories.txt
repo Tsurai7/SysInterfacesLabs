@@ -1,0 +1,3 @@
+D:/BSUIR/Sem5/System Interfaces/Lab1/cmake-build-debug/CMakeFiles/Lab1.dir
+D:/BSUIR/Sem5/System Interfaces/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BSUIR/Sem5/System Interfaces/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
